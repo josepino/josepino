@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm José Pino
 
-<!--
-**josepino/josepino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech professional from Paraguay 🇵🇾 with over 15 years of experience in technology.
 
-Here are some ideas to get you started:
+- 🧠 Digital transformation & government innovation
+- 💡 UX/UI design & user research
+- 🤖 AI, automation & low-code (n8n, Python, OpenAI, Google Gemini)
+- 🎓 Tech educator & course creator (2,300+ students on Udemy)
+- 👨‍💻 Hackathon winner, mentor & judge
+- 🎓 Master's in Strategic Management in Software Engineering  
+- 🎯 Selected as a **YLAI Fellow by the U.S. Department of State** for leadership in technology and entrepreneurship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔧 Tech & Tools
+- Latest Language: Python
+- Tools: n8n, Figma, Notion, Trello, WordPress
+- Platforms: Linux, Docker, Cloud, Proxmox, macOS 
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,swift,html,css,js,linux,figma,notion,trello,vscode,github,git,postgres,sqlite,wordpress" height="40" />
+</div>
+
+
+
+## 👨‍🏫 Projects & Highlights
+
+- 🧪 Taught +2,300 students worldwide on **UX Research** via [Udemy](https://www.udemy.com/course/ux-research-es/)
+- 🧠 Delivered training in **AI fundamentals** with `n8n` and **AI Agents**, applied to automation workflows
+- 🎓 Taught **UX/UI Design with Figma** at university level, combining theory and hands-on design sprints
+- 🤖 Built **AI-powered lead scoring bots** using `n8n`, `OpenAI`, `Slack` and `Google Sheets`
+- 🏛️ Led the **digital transformation of public services** for 20+ government institutions in Paraguay
+- 💉 Worked in the design, QA and launch of the **Covid-19 vaccination portal** and **Gov.py** platform
+- 📱 Developed **iOS apps** using **ARKit** (Augmented Reality) and **CoreML** (Machine Learning)
+- 🧠 Helped design and deliver AI, Python, and Data Science training programs for public employees and government officials
+- 🔐 Coordinated international PoCs on **Blockchain for Digital ID** and AI training with partners like Korea
+- 🏆 **Hackathon winner**, mentor of winning teams, and jury member in tech competitions
+- 🧭 Created one of Paraguay’s first digital yearbooks (2003) and collaborated on one of the first car tuning websites (2004)
+- 📢 Gave **keynotes and workshops** on AI, UX, and emerging technologies in Latin America and Asia
+- 🧩 Developed tools and web systems with **Java**, **PostGIS**, **MapBox**, and **OpenGTS**
+- 🌐 Published early tech blog posts on **C, algorithms, and data structures** in 2011
+
+
+---
+
+## 🚀 Some links
+
+- 👨‍🏫 **[UX Research Course on Udemy](https://www.udemy.com/course/ux-research-es/)** – +2,300 students from 30+ countries.
+- 🌐 **[Covid-19 App & Government Portal](https://web.archive.org/web/20220719011116/https:/blog.mitic.gov.py/covid-19-py/)** – Led design/QA for platforms used by millions.
+- 🧠 **[AI Lead Scoring Bot in n8n](https://jpino.notion.site/AI-Automations-with-n8n-21cef6bc6c5b80199beec7f83d744e6e?source=copy_link)** – Automated lead scoring with OpenAI.
+- 🎤 **[Talks in Korea, Hackathons, Bootcamps](https://jpino.notion.site/Some-talks-2019-22cef6bc6c5b80d5a2a9d65cb4580815)** – Public speaker, mentor, judge.
+
+---
+
+## 📚 Learning & Sharing
+
+- 🛠️ Built my first product in **2003** with Macromedia Flash.
+- 📘 Started a tech blog in **2011** on algorithms and C.
+- 🎥 [Figma class on YouTube (UX/UI)](https://youtu.be/6xq6dZnVDWA)
+- 🧠 [Keynote: Digital Services in Korea 🇰🇷](https://youtu.be/u4-biuy6Dq8?si=E5JYm6-Ud-HJ6lTv&t=201)
+
+---
+
+## 🌐 Links & Contact - Let's connect!
+
+[![Notion](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://jpino.notion.site/Jos-Pino-732b63e6947542a8bcb215d23805a01e)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JosePino-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joselopino)  
+[![YouTube](https://img.shields.io/badge/Keynote_in_Korea-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=6xq6dZnVDWA)
+[![Udemy](https://img.shields.io/badge/Udemy-UX_Research_Course-a435f0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/ux-research-es/)  
+
+---
