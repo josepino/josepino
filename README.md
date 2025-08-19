@@ -3,16 +3,16 @@
 I'm a tech professional from Paraguay 🇵🇾 with over 15 years of experience in technology.
 
 - 🧠 Digital transformation & government innovation
-- 💡 UX/UI design & user research
 - 🤖 AI, automation & low-code (n8n, Python, OpenAI, Google Gemini)
 - 🎓 Tech educator & course creator (2,300+ students on Udemy)
+- 💡 UX/UI design & user research
 - 👨‍💻 Hackathon winner, mentor & judge
 - 🎓 Master's in Strategic Management in Software Engineering  
 - 🎯 Selected as a **YLAI Fellow by the U.S. Department of State** for leadership in technology and entrepreneurship.
 
 
 ## 🔧 Tech & Tools
-- Latest Language: Python
+- Latest Language: Python + FastAPI
 - Tools: n8n, Figma, Notion, Trello, WordPress
 - Platforms: Linux, Docker, Cloud, Proxmox, macOS 
 
@@ -24,14 +24,14 @@ I'm a tech professional from Paraguay 🇵🇾 with over 15 years of experience 
 
 ## 👨‍🏫 Projects & Highlights
 
-- 🧪 Taught +2,300 students worldwide on **UX Research** via [Udemy](https://www.udemy.com/course/ux-research-es/)
 - 🧠 Delivered training in **AI fundamentals** with `n8n` and **AI Agents**, applied to automation workflows
+- 🏛️ Led the **digital transformation of public services** for 20+ government institutions in Paraguay
+- 🧠 Helped design and deliver AI, Python, and Data Science training programs for public employees and government officials
+- 🧪 Taught +2,300 students worldwide on **UX Research** via [Udemy](https://www.udemy.com/course/ux-research-es/)
 - 🎓 Taught **UX/UI Design with Figma** at university level, combining theory and hands-on design sprints
 - 🤖 Built **AI-powered lead scoring bots** using `n8n`, `OpenAI`, `Slack` and `Google Sheets`
-- 🏛️ Led the **digital transformation of public services** for 20+ government institutions in Paraguay
 - 💉 Worked in the design, QA and launch of the **Covid-19 vaccination portal** and **Gov.py** platform
 - 📱 Developed **iOS apps** using **ARKit** (Augmented Reality) and **CoreML** (Machine Learning)
-- 🧠 Helped design and deliver AI, Python, and Data Science training programs for public employees and government officials
 - 🔐 Coordinated international PoCs on **Blockchain for Digital ID** and AI training with partners like Korea
 - 🏆 **Hackathon winner**, mentor of winning teams, and jury member in tech competitions
 - 🧭 Created one of Paraguay’s first digital yearbooks (2003) and collaborated on one of the first car tuning websites (2004)
