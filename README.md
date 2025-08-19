@@ -2,7 +2,7 @@
 
 I'm a tech professional from Paraguay 🇵🇾 with over 15 years of experience in technology.
 
-- 🧠 Digital transformation & government innovation
+- 🧠 Digital transformation, software development 
 - 🤖 AI, automation & low-code (n8n, Python, OpenAI, Google Gemini)
 - 🎓 Tech educator & course creator (2,300+ students on Udemy)
 - 💡 UX/UI design & user research
