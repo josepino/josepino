@@ -1,6 +1,6 @@
 # 👋 Hi, I'm José Pino
 
-I'm a tech professional from Paraguay 🇵🇾 with over 15 years of experience in technology.
+I'm a tech professional from LATAM (Paraguay 🇵🇾) with over 15 years of experience in technology.
 
 - 🧠 Digital transformation, software development 
 - 🤖 AI, automation & low-code (n8n, Python, OpenAI, Google Gemini)
