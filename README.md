@@ -3,10 +3,10 @@
 I'm a tech professional from LATAM (Paraguay 🇵🇾) with over 15 years of experience in technology.
 
 - 🧠 Digital transformation, software development 
-- 🤖 AI, automation & low-code (n8n, Python, OpenAI, Google Gemini)
-- 🎓 Tech educator & course creator (2,300+ students on Udemy)
+- 🤖 AI, automation & low-code (n8n, OpenClaw, Python, Claude Code, Cursor, Codex, Google Gemini CLI)
+- 🎓 Tech educator & course creator (2,300+ students on Udemy - UX Research)
 - 💡 UX/UI design & user research
-- 👨‍💻 Hackathon winner, mentor & judge
+- 👨‍💻 Hackathon winner, mentor & judge (winner of the first startup weekend)
 - 🎓 Master's in Strategic Management in Software Engineering  
 - 🎯 Selected as a **YLAI Fellow by the U.S. Department of State** for leadership in technology and entrepreneurship.
 
@@ -14,7 +14,7 @@ I'm a tech professional from LATAM (Paraguay 🇵🇾) with over 15 years of exp
 ## 🔧 Tech & Tools
 - Latest Language: Python + FastAPI
 - Tools: n8n, Figma, Notion, Trello, WordPress
-- Platforms: Linux, Docker, Cloud, Proxmox, macOS 
+- Platforms: Linux, Docker, Cloud, Proxmox, macOS, GCP 
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,swift,html,css,js,linux,figma,notion,trello,vscode,github,git,postgres,sqlite,wordpress" height="40" />
