@@ -1,6 +1,6 @@
 # 👋 Hi, I'm José Pino
 
-I'm a tech professional from LATAM (Paraguay 🇵🇾) with over 15 years of experience in technology.
+I'm an AI Engineer who builds practical AI solutions, agentic workflows, internal applications, and automations that help teams make better decisions and spend less time on repetitive work. I work remotely with teams in the United States and bring nearly two decades of experience across software, infrastructure, UX/UI, quality engineering, and digital transformation.
 
 - 🧠 Digital transformation, software development 
 - 🤖 AI, automation & low-code (n8n, OpenClaw, Python, Claude Code, Cursor, Codex, Google Gemini CLI)
@@ -12,12 +12,14 @@ I'm a tech professional from LATAM (Paraguay 🇵🇾) with over 15 years of exp
 
 
 ## 🔧 Tech & Tools
-- Latest Language: Python + FastAPI
-- Tools: n8n, Figma, Notion, Trello, WordPress
-- Platforms: Linux, Docker, Cloud, Proxmox, macOS, GCP 
+- AI and application engineering: Claude Cowork, Claude Code, OpenAI Codex, Cursor, Python, FastAPI
+- Workflows and integrations: MCP tools, n8n, REST APIs, Playwright, GitHub Actions
+- Cloud and data: GCP, AWS, BigQuery, MySQL, PostgreSQL, Linux
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,swift,html,css,js,linux,figma,notion,trello,vscode,github,git,postgres,sqlite,wordpress" height="40" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img alt="AI, Python, FastAPI, Go, Figma, GCP, AWS, MySQL, PostgreSQL, GitHub Actions, Docker, Linux, VS Code, Git, and GitHub" src="https://skillicons.dev/icons?i=ai,python,fastapi,go,figma,gcp,aws,mysql,postgres,githubactions,docker,linux,vscode,git,github&perline=15" height="48" />
+  </a>
 </div>
 
 
@@ -44,6 +46,7 @@ I'm a tech professional from LATAM (Paraguay 🇵🇾) with over 15 years of exp
 
 ## 🚀 Some links
 
+- ✍️ **[Technology blog](https://j-pino.blogspot.com/)** – Notes on software, algorithms, and technology.
 - 👨‍🏫 **[UX Research Course on Udemy](https://www.udemy.com/course/ux-research-es/)** – +2,300 students from 30+ countries.
 - 🌐 **[Covid-19 App & Government Portal](https://web.archive.org/web/20220719011116/https:/blog.mitic.gov.py/covid-19-py/)** – Led design/QA for platforms used by millions.
 - 🧠 **[AI Lead Scoring Bot in n8n](https://jpino.notion.site/AI-Automations-with-n8n-21cef6bc6c5b80199beec7f83d744e6e?source=copy_link)** – Automated lead scoring with OpenAI.
@@ -66,5 +69,6 @@ I'm a tech professional from LATAM (Paraguay 🇵🇾) with over 15 years of exp
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JosePino-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joselopino)  
 [![YouTube](https://img.shields.io/badge/Keynote_in_Korea-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=6xq6dZnVDWA)
 [![Udemy](https://img.shields.io/badge/Udemy-UX_Research_Course-a435f0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/ux-research-es/)  
+[![Blog](https://img.shields.io/badge/Blog-Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://j-pino.blogspot.com/)<br />
 
 ---
