@@ -47,6 +47,7 @@ I'm an AI Engineer who builds practical AI solutions, agentic workflows, interna
 ## 🚀 Some links
 
 - ✍️ **[Technology blog](https://j-pino.blogspot.com/)** – Notes on software, algorithms, and technology.
+- 📊 My [Quicksort presentation](https://www.slideshare.net/slideshow/quicksort-7645707/7645707) has reached **15,702 views** on SlideShare. Created around 15 years ago, it explains divide and conquer sorting, with O(n log n) average and O(n²) worst case time complexity.
 - 👨‍🏫 **[UX Research Course on Udemy](https://www.udemy.com/course/ux-research-es/)** – +2,300 students from 30+ countries.
 - 🌐 **[Covid-19 App & Government Portal](https://web.archive.org/web/20220719011116/https:/blog.mitic.gov.py/covid-19-py/)** – Led design/QA for platforms used by millions.
 - 🧠 **[AI Lead Scoring Bot in n8n](https://jpino.notion.site/AI-Automations-with-n8n-21cef6bc6c5b80199beec7f83d744e6e?source=copy_link)** – Automated lead scoring with OpenAI.
