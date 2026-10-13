@@ -57,8 +57,9 @@ I'm an AI Engineer who builds practical AI solutions, agentic workflows, interna
 
 ## 📚 Learning & Sharing
 
-- 🛠️ Built my first product in **2003** with Macromedia Flash.
-- 📘 Started a tech blog in **2011** on algorithms and C.
+- 🛠️ Built my [first product](https://jpino.notion.site/First-Digital-Yearbook-2003-1c1ef6bc6c5b8080a810f8a5ef6fdad9) in **2003** with Macromedia Flash.
+- 📘 Started a [tech blog](https://j-pino.blogspot.com/) in **2011** on algorithms and C.
+- 📊 Created a [Quicksort presentation](https://www.slideshare.net/slideshow/quicksort-7645707/7645707) about 15 years ago. It has now passed **15,000 views** on SlideShare.
 - 🎥 [Figma class on YouTube (UX/UI)](https://youtu.be/6xq6dZnVDWA)
 - 🧠 [Keynote: Digital Services in Korea 🇰🇷](https://youtu.be/u4-biuy6Dq8?si=E5JYm6-Ud-HJ6lTv&t=201)
 
